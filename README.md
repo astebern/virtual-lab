@@ -5,8 +5,7 @@ Media pembelajaran interaktif berbasis HTML5, CSS, dan JavaScript untuk mahasisw
 ## Menjalankan
 
 1. Unduh atau clone folder proyek.
-2. Buka `index.html` menggunakan Google Chrome.
-3. Alternatif: jalankan `python3 -m http.server 8000`, lalu buka `http://localhost:8000`.
+3. Jalankan `python3 -m http.server 8000`, lalu buka `http://localhost:8000`.
 
 ## Course
 
@@ -30,7 +29,6 @@ Media pembelajaran interaktif berbasis HTML5, CSS, dan JavaScript untuk mahasisw
 - `index.html`: struktur aplikasi.
 - `styles.css`: desain dan responsive layout.
 - `app.js`: data course, simulasi, dan interaksi.
-- `plan.md`: rencana implementasi.
 
 ## Sumber
 
