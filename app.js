@@ -47,7 +47,7 @@ const courses = [
   {
     id: "sustainability",
     code: "WI1103",
-    title: "Keberlanjutan",
+    title: "Sustainability",
     lab: "Kebijakan Kampus",
     description: "Bagi anggaran sambil menjaga lingkungan, sosial, dan ekonomi.",
     kind: "Sistem",

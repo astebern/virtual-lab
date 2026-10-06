@@ -91,15 +91,9 @@ select:focus-visible,
 }
 
 .brand-mark {
-  display: grid;
   width: 44px;
   height: 44px;
-  place-items: center;
-  color: var(--cream);
-  border: var(--line);
-  background: var(--orange);
-  box-shadow: 3px 3px 0 var(--ink);
-  font-weight: 900;
+  object-fit: contain;
 }
 
 .brand strong,
